@@ -21,6 +21,6 @@ Javascript是为浏览器而设计的，能很好的处理unicode编码的字符
 
 ## 使用说明
 
-Node.js缓存模块Buffer
+Node.js缓冲模块Buffer
 
 http://blog.fens.me/nodejs-buffer/
