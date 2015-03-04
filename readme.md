@@ -7,10 +7,10 @@ Javascript是为浏览器而设计的，能很好的处理unicode编码的字符
 
 ## 关于作者
 
-张丹(Conan), 创业者、程序员(Java,R,Javacript/Node.js)
-weibo：@Conan_Z
-blog: http://blog.fens.me
-email: bsspirit@gmail.com
++ 张丹(Conan), 创业者、程序员(Java,R,Javacript/Node.js)
++ weibo：@Conan_Z
++ blog: http://blog.fens.me
++ email: bsspirit@gmail.com
 
 ## 项目文件
 
